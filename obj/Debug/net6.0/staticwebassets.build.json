@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "JtedhNHyATkqmRWOOgKdAaEHeWtjeVw2PCfy/sNLh/I=",
+  "Source": "tweeter-api",
+  "BasePath": "_content/tweeter-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
